@@ -19,6 +19,7 @@ Version 3.25.3
 
 * Minor simplification of the Difference class (PR [#4008](https://github.com/javaparser/javaparser/pull/4008) by [@jlerbsc](https://github.com/jlerbsc))
 * Perf: Remove unnecessary methods and quickly return to the Range.cont… (PR [#3996](https://github.com/javaparser/javaparser/pull/3996) by [@jlerbsc](https://github.com/jlerbsc))
+* add Java 17 sealed/non-sealed classes (PR [#3997](https://github.com/javaparser/javaparser/pull/3997) by [@kris-scheibe]
 
 ### Fixed
 
